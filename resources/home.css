@@ -1,0 +1,18 @@
+/*-----BONUS-----*/
+VBox {
+    -fx-spacing: 10;
+    -fx-alignment: center;
+    -fx-padding: 20;
+    -fx-max-width: 450;
+}
+
+HBox {
+    -fx-spacing: 30;
+    -fx-alignment: center;
+    -fx-padding: 20;
+    -fx-max-width: 450;
+}
+
+#label-logo {
+    -fx-font-size: 80;
+}

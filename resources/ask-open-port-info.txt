@@ -1,0 +1,5 @@
+La fonctionalité UPnP de votre routeur a été détectée.
+Si vous acceptez, le port sera ouvert automatiquement.
+
+Si vous voulez jouer en ligne, il est nécessaire d'ouvrir un port pour permettre la communication avec l'adversaire.
+Si vous voulez jouer sur un même réseau local, vous pouvez refuser.

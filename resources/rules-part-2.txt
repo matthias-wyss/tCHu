@@ -1,0 +1,113 @@
+
+    1) Les statistiques de la partie
+    2) Les informations du déroulement de la partie
+    3) Le plan
+    4) Les pioches de carte et de billet, et les 5 cartes face visible
+    5) Les billets en possession du joueur
+    6) Les cartes en possession du joueur
+
+
+
+Les cartes :
+
+    - 12 cartes de chacune des 8 couleurs
+    - 14 cartes locomotive, qui sont en quelque sorte multicolores
+
+
+
+Les billets :
+
+Objectifs à atteindre pour gagner des points.
+Il existe 3 types de billets :
+
+    - Ville à ville
+    - Ville à pays
+    - Pays à pays
+
+
+
+Billets ville à ville :
+
+Un billet "ville à ville" relie simplement deux villes (suisses) entre elles, par exemple Lausanne et Saint-Gall.
+Un nombre de points fixe est attribué à ce type de billet, qui correspond souvent à la longueur du plus court chemin reliant les deux villes, 13 dans le cas de Lausanne et de Saint-Gall.
+Un joueur possédant un tel billet et réussissant effectivement à relier les deux villes avant la fin de la partie gagne les points correspondants, 13 dans notre exemple. S'il ne parvient pas à relier les villes, il perd ces 13 points, qui sont soustraits de son total.
+
+
+
+Billets ville à pays :
+
+Un billet "ville à pays" relie une ville suisse à chacun des pays voisins (France, Allemagne, Autriche et Italie). Les points attribués à ce type de billet dépendent du pays destination. Par exemple, dans le cas du billet allant de Berne à un pays voisin, la liaison avec l'Allemagne vaut 6 points, celle avec l'Autriche 11, celle avec l'Italie 8 et celle avec la France 5. Là aussi, ces points correspondent généralement à la longueur du plus court chemin reliant la ville à la gare la plus proche du pays en question.
+Un joueur possédant un billet ville à pays et réussissant effectivement à relier la ville à au moins une gare d'un des pays voisins gagne le nombre de points maximum correspondant. S'il ne réussit pas à relier la ville avec une gare d'un des pays voisins, il perd le nombre minimum de points.
+
+
+
+Billets pays à pays :
+
+Un billet "pays à pays" relie un pays voisin de départ donné à chacun des autres pays voisins, par exemple la France à chacun des pays restants (Allemagne, Autriche et Italie). Là aussi, le nombre de points dépend du pays. Dans l'exemple du billet partant de la France, la connexion avec l'Allemagne vaut 5 points, celle avec l'Autriche 14 et celle avec l'Italie 11.
+Les points gagnés ou perdus à la fin de la partie par un joueur possédant un tel billet sont déterminés de la même manière que pour les billets ville à pays.
+
+
+
+Les routes :
+
+Elles se distinguent par leur longueur, leur multiplicité et leur couleur.
+La longueur d'une route est le nombre de cases qui la compose.
+Une route peut être simple ou double.
+Certaines routes sont colorées, tandis que d'autres sont neutres. Les routes colorées le sont au moyen des mêmes huit couleurs que celles utilisées pour les cartes, à savoir : noir, violet, bleu, vert, jaune, orange, rouge, et blanc. Les routes neutres sont grises.
+
+
+
+Les tunnels :
+
+Ce sont des routes avec des caractéristiques supplémentaires lorsqu’un joueur voudra s’en emparer. Ils se distinguent des routes par leurs contours traitillés.
+
+
+
+Début de la partie :
+
+Chaque joueur :
+
+    - Doit choisir 3 des 5 billets qui lui sont proposés
+    - Possède 4 cartes
+    - Possède 40 wagons
+
+
+
+Tour de jeu : le joueur choisi une action parmi les 3 suivantes :
+
+    - Piocher 2 cartes des 5 cartes face visible et/ou de la pioche
+    - Piocher 1 billet et en choisir 1 parmi les 3 proposés
+    - S’emparer d’une route ou tenter de s’emparer d’un tunnel
+
+
+
+S’emparer d’une route : Pour pouvoir s’emparer d’une route, le joueur doit posséder :
+
+    - Un nombre de wagons au moins égal à la longueur de la route
+    - Un nombre de cartes de même couleur que la route, au moins égal à la longueur de la route.
+
+Si la route est neutre, les cartes utilisées pour s'en emparer peuvent être de couleur quelconque, mais unique.
+Le joueur peut s’emparer d’une route en cliquant dessus.
+Pour les routes de couleur, les cartes nécessaires sont défaussées automatiquement de la main du joueur.
+Pour les routes neutres, le joueur doit choisir avec quelles cartes il souhaite s’en emparer.
+Lorsqu’un joueur s’empare d’une route ou d’un tunnel, il apparaît alors de sa couleur sur le plan et son adversaire ne peut plus s’en emparer.
+D'autre part, dès qu'un joueur s'est emparé d'une des deux moitiés d'une route double, l'autre est condamnée et personne ne peut s'en emparer.
+
+
+
+S’emparer d’un tunnel :
+
+Pour pouvoir s'emparer d'un tunnel, un joueur doit remplir les mêmes conditions que pour une route en surface.
+Dans le cas d'un tunnel, il peut toutefois aussi utiliser les cartes locomotive, qui peuvent jouer le rôle d'une carte classique de couleur quelconque.
+Le joueur peut s’emparer d’un tunnel en cliquant dessus.
+Pour les tunnels de couleur, les cartes nécessaires sont défaussées automatiquement de la main du joueur.
+Pour les tunnels neutres, le joueur doit choisir avec quelles cartes il souhaite s’en emparer.
+Le joueur doit ensuite jouer entre 0 à 3 cartes supplémentaires, selon les cas.
+Il peut sélectionner une des options qui s’affichent à l’écran, ou bien ne rien sélectionner pour passer son tour.
+Si le joueur n’a pas les cartes supplémentaires nécessaires, son tour est passé automatiquement.
+
+
+
+Fin de la partie :
+
+Le jeu s’arrête lorsqu’un joueur ne possède plus que 2 wagons ou moins après avoir joué. Chaque joueur joue encore un tour et la partie se termine.

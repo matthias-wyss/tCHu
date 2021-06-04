@@ -1,0 +1,2 @@
+Si vous voulez que quelqu'un puisse observer votre partie en tant que spectateur, il vous faut utiliser un port ouvert en TCP sur votre connexion personnelle redirigeant vers cet ordinateur.
+Notez qu'il faut utiliser ici un numéro de port différent de celui utilisé pour la création de la partie.

@@ -1,0 +1,7 @@
+Si vous voulez créer ou rejoindre une partie sur un même réseau local, vous pouvez rentrer n'importe quel nombre entre 1024 et 65535.
+Par exemple vous pouvez utiliser le port 5108.
+
+Si vous voulez créer ou rejoindre une partie en ligne, il vous faut utiliser un port ouvert en TCP sur votre connexion personnelle redirigeant vers cet ordinateur.
+Notez qu'il est seulement nécessaire que le port choisi soit ouvert sur la connexion personnelle du joueur qui créer la partie.
+
+Il faut impérativement que les 2 joueurs rentrent le même port pour qu'ils puissent se connecter à la même partie.

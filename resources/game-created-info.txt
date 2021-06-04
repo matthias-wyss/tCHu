@@ -1,0 +1,4 @@
+Veuillez transmettre votre adresse IP et le port choisi à votre adversaire pour qu'il puisse rejoindre votre partie.
+
+Si vous voulez jouer sur un même réseau local, transmettez lui votre adresse IP locale.
+Si vous voulez jouer en ligne, transmettez lui votre adresse IP externe.

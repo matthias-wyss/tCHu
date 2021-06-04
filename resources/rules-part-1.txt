@@ -1,0 +1,13 @@
+But du jeu :
+
+Avoir un maximum de points. Vous gagnez des points :
+
+    - Selon la longueur des routes dont vous vous emparez
+    - En reliant les 2 villes/pays de chacun de vos billets
+    - En obtenant le bonus de 10 points accordé au joueur ayant réalisé le chemin le plus long
+
+
+
+Interface graphique :
+
+L'interface graphique de tCHu est séparée en 6 parties :

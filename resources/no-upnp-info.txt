@@ -1,0 +1,2 @@
+Le port n'est pas ouvert et la fonctionalité UPnP de votre routeur est désactivée.
+Activez-là et réessayez, ou redirigez manuellement ce port vers cet ordinateur.

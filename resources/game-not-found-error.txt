@@ -1,0 +1,3 @@
+Aucune partie n'a été trouvée avec ces paramètres.
+Vérifier l'adresse IP de votre adversaire ou le port utilisé.
+Veuillez créer une partie avant de la rejoindre.
