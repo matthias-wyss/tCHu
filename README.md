@@ -9,6 +9,7 @@ It is inspired by the board game Ticket to Ride
 ### Installation
 
 * You don't need Java installed on your computer, it was packaged into the game
+* Find the release [here](https://github.com/matthias-wyss/tCHu/releases/tag/1.0)
 * Download and install tCHu-installer.exe for Windows or tCHu-installer.pkg for macOS
 
 ### Libraries used
